@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/21958644/README.md)
+
 [Uploading README.md…]()
 # Sistematização do Refeitório da Faculdade Wyden  
 **Uma Abordagem Inovadora com React Native e JavaScript**  

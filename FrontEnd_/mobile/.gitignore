@@ -1,0 +1,12 @@
+# Pastas de dependências
+node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de build
+/build/
+/dist/
+
+# Informações de ambiente
+.env
